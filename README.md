@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **eduardomarchetti/eduardomarchetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Olá, eu sou Eduardo
+
+## Sobre Mim
+
+- 👨‍💻 Analista de Suporte 
+- 🎓 Graduado em analise e desenvolvimento de sistemas de informação
+- 🌱 Aprendendo constantemente
+  
+<!--
+## Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true)
+-->
+## Entre em Contato
+
+- LinkedIn: [Eduardo Vinicius Marchetti](https://www.linkedin.com/in/eduardo-marchetti)
+- Twitter: [@marchettidudu](https://twitter.com/marchettidudu)
+- Email: seuemail@email.com
