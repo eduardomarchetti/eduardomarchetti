@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 
 - LinkedIn: [Eduardo Vinicius Marchetti](https://www.linkedin.com/in/eduardo-marchetti)
 - Twitter: [@marchettidudu](https://twitter.com/marchettidudu)
-- Email: seuemail@email.com
+- Email: eduardoviniciusmarchetti@gmail.com
