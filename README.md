@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 ## Entre em Contato
 
 - LinkedIn: [Eduardo Vinicius Marchetti](https://www.linkedin.com/in/eduardo-marchetti)
-- Twitter: [@marchettidudu](https://twitter.com/marchettidudu)
+- Instagram: [@marchettidudu](https://www.instagram.com/marchettidudu/)
 - Email: eduardoviniciusmarchetti@gmail.com
